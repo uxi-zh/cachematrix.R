@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
+# caching the inverse of a matrix rather than repeated computation to speed up. 
 ## Write a short comment describing this function
 # makeCacheMatrix functions works to get a list of a functon to 
 # set and get the value of the matrix, 
